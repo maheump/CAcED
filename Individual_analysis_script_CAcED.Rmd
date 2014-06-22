@@ -5,7 +5,7 @@ Author: Maxime Maheu [(C) Copyright 2014]
 ```{r}
 ##############################################
 # Paste the directory of the file you want to analyze :
-directory <- "/Users/Maxime/Desktop/Test.dat""
+directory <- "/Users/Maxime/Google Drive/Dossier partagé Montpellier/Bilateral SFG resection/CAcED_MICHELOT1_3-3_M43R_DATA.dat"
 ##############################################
 
 initial_data <- read.table(directory, header = T)
