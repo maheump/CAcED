@@ -1,4 +1,4 @@
-CAcED_project
+CAcED
 =============
 
 Threshold for consciousness access and error detection.
